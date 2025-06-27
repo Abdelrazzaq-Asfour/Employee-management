@@ -6,7 +6,7 @@ A full-stack CRUD web application for managing employees.
 
 ## 🛠️ Tech Stack
 
-* **Backend:** Spring Boot + MySQL
+* **Backend:** Spring Boot JAVA + MySQL
 * **Frontend:** ReactJS + Bootstrap
 * **Communication:** RESTful API
 * **IDE Used:** Visual Studio (VS) & IntelliJ
